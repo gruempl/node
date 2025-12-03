@@ -3,4 +3,4 @@ name: CodeQL config
 paths-ignore:
   - test
   - deps
-  - benchmark
+  - tools
